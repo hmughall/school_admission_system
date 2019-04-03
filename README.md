@@ -5,4 +5,6 @@ Here is project proposal
 
 
 This Project Is Live Now
-<a href="http://school.ideologic.tech">View Online</a>
+<a href="http://school.ideologic.tech">View Online</a><br>
+Username: admin<br>
+Password: admin
